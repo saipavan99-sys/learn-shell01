@@ -1,7 +1,6 @@
 #!/bin/bash 
 
-$1=ramesh
-$2=suresh
+
 
 
 echo "$PERSON1: hi,$PERSON2"
